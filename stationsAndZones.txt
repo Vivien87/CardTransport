@@ -1,0 +1,5 @@
+# Stations and Zones
+Holborn=1
+Earl\'s\ Court=1,2
+Wimbledon=3
+Hammersmith=2
